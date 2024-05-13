@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 My name is Jason Scott – not to be confused with [Jason Lee Scott](http://www.powerrangers.com/character/mighty-morphin-power-rangers-jason-lee-scott-red-ranger-season-1/) (although I did work on _[Power Rangers](http://www.imdb.com/title/tt3717490)_) nor [Jason Scott Lee](http://www.imdb.com/name/nm0001462/) (although we do share one screen credit for _[Seventh Son](http://www.imdb.com/title/tt1121096/)_).  In fact, my name is so common, they made a [movie](http://www.imdb.com/title/tt0469144/) about it.
 
-I ❤️ _[Star Wars](https://www.starwars.com/)_, VFX and :movie_camera:, and I've lived in 🇺🇸 🇩🇪 🇨🇦 🇦🇺.
+I ❤️ _[Star Wars](https://www.starwars.com/)_, VFX and :movie_camera:, and I've lived in <img src="https://flagsapi.com/US/flat/16.png">(🇺🇸) <img src="https://flagsapi.com/DE/flat/16.png">(🇩🇪) <img src="https://flagsapi.com/CA/flat/16.png">(🇨🇦) <img src="https://flagsapi.com/AU/flat/16.png">(🇦🇺).
 
 I am a seasoned technology manager and creative supervisor in the VFX/animation industry, with a background that includes:
 * Production technology for multiple studios with ~1000 artists across locations
