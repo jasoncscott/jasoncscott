@@ -16,9 +16,23 @@ Here are some ideas to get you started:
 
 <!-- Socials -->
 <p align="center">
-   <kbd>
-  <a href="https://twitter.com/jason_c_scott" title="Twitter"><img src="https://img.shields.io/badge/@jason_c_scott-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jasoncscott" title="LinkedIn"><img src="https://img.shields.io/badge/Jason Scott-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <kbd>
+    <a href="https://www.facebook.com/jason.c.scott"  title="Facebook">
+      <img src="https://img.shields.io/badge/jason.c.scott-0866FF?logo=Facebook&logoColor=white" /></a>
+    <a href="https://www.github.com/jasoncscott"  title="GitHub">
+      <img src="https://img.shields.io/badge/jasoncscott-181717?logo=GitHub&logoColor=white" /></a>
+    <a href="https://www.imdb.com/name/nm1108233/"  title="IMDB">
+      <img src="https://img.shields.io/badge/Jason%20Scott-F5C518?logo=IMDB&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/jasoncscott" title="LinkedIn">
+      <img src="https://img.shields.io/badge/jasoncscott-0072b1?logo=Linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/jason_c_scott"       title="Twitter">
+      <img src="https://img.shields.io/badge/@jason__c__scott-00acee?logo=Twitter&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@jasoncscott"    title="YouTube">
+      <img src="https://img.shields.io/badge/jasoncscott-FF0000?logo=YouTube&logoColor=white" /></a>
+    <a href="https://vimeo.com/jasoncscott"           title="Vimeo">
+    <img src="https://img.shields.io/badge/jasoncscott-1AB7EA?logo=Vimeo&logoColor=white" /></a>
+    <a href="https://zerply.com/jason_scott"          title="Zerply">
+      <img src="https://img.shields.io/badge/jason_scott-7BBB6E?logo=Zerply&logoColor=white" /></a>
   </kbd>
 </p>
 
