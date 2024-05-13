@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # JSco
+
+<!-- Socials -->
+<p align="center">
+   <kbd>
+  <a href="https://twitter.com/jason_c_scott" title="Twitter"><img src="https://img.shields.io/badge/@jason_c_scott-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jasoncscott" title="LinkedIn"><img src="https://img.shields.io/badge/Jason Scott-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  </kbd>
+</p>
+
 My name is Jason Scott – not to be confused with [Jason Lee Scott](http://www.powerrangers.com/character/mighty-morphin-power-rangers-jason-lee-scott-red-ranger-season-1/) (although I did work on _[Power Rangers](http://www.imdb.com/title/tt3717490)_) nor [Jason Scott Lee](http://www.imdb.com/name/nm0001462/) (although we do share one screen credit for _[Seventh Son](http://www.imdb.com/title/tt1121096/)_).  In fact, my name is so common, they made a [movie](http://www.imdb.com/title/tt0469144/) about it.
 
 I ❤️ _[Star Wars](https://www.starwars.com/)_, VFX and :movie_camera:, and I've lived in 🇺🇸 🇩🇪 🇨🇦 🇦🇺.
