@@ -49,15 +49,13 @@ I am a seasoned technology manager and creative supervisor in the VFX/animation 
 
 But I not only have extensive experience—I absolutely love what I'm doing! I am constantly enthralled by the magic that is visual effects and animation, and for me, it's the perfect combination of art and technology, working together to create imagery that otherwise couldn't be shown on screen. That blend is a perfect match for me, as I feel just as comfortable tackling artistic challenges as technical ones.
 
-I most recently worked with the entire [Pitch Black](https://www.pitchblackcompany.com/) group (combining [FuseFX](https://www.fusefx.com/), [Folks](https://www.folksvfx.com/), [Rising Sun Pictures](https://www.rsp.com.au/), and [El Ranchito](https://www.elranchito.es/)), having previously been the Head of 3D and Head of Technology at RSP.
+I currently work at [Blizzard Entertainment](https://www.blizzard.com/) on the [World of Warcraft](https://worldofwarcraft.blizzard.com/) engine team.  Prior to Blizzard, I worked with the entire [Pitch Black](https://www.pitchblackcompany.com/) group (combining [FuseFX](https://www.fusefx.com/), [Folks](https://www.folksvfx.com/), [Rising Sun Pictures](https://www.rsp.com.au/), and [El Ranchito](https://www.elranchito.es/)), having previously been the Head of 3D and Head of Technology at RSP.
 
-Prior to my time at Pitch Black and RSP, I was at [Method Studios](https://www.methodstudios.com/) for a few years, and at [Rhythm & Hues Studios](https://www.rhythm.com/) for many years. Before R&H, it starts to get murky--some years at [DreamWorks](https://www.dreamworksanimation.com/), some time working for [Stan Winston](https://www.stanwistonschool.com/stan-winston-studio) (even doing a couple of stints in animatronics), a stint as a VFX Supervisor for a Lifetime TV show (because you all know how many VFX shots are in Lifetime TV shows...), and even some visualization for the U.S. Air Force.
+Before my time at Pitch Black and RSP, I was at [Method Studios](https://www.methodstudios.com/) for a few years, and at [Rhythm & Hues Studios](https://www.rhythm.com/) for many years. Before R&H, it starts to get murky--some years at [DreamWorks](https://www.dreamworksanimation.com/), some time working for [Stan Winston](https://www.stanwistonschool.com/stan-winston-studio) (even doing a couple of stints in animatronics), a stint as a VFX Supervisor for a Lifetime TV show (because you all know how many VFX shots are in Lifetime TV shows...), and even some visualization for the U.S. Air Force.
 
 I attended the [University of Southern California](https://www.usc.edu/) :v:.
 
 
-# Links
+# Links (that aren't above)
 * [Personal](https://www.thescottclan.org/jason/)
-* [LinkedIn](https://www.linkedin.com/in/jasoncscott/)
-* [GitHub](https://github.com/jasoncscott/)
 * [GitHub Pages](https://jasoncscott.github.io/)
