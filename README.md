@@ -58,4 +58,6 @@ I attended the [University of Southern California](https://www.usc.edu/) :v:.
 
 # Links (that aren't above)
 * [Personal](https://www.thescottclan.org/jason/)
+* [Linux Foundation LFX Profile](https://openprofile.dev/profile/jasonscott)
 * [GitHub Pages](https://jasoncscott.github.io/)
+
