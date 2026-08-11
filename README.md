@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </kbd>
 </p>
 
-My name is Jason Scott – not to be confused with [Jason Lee Scott](http://www.powerrangers.com/character/mighty-morphin-power-rangers-jason-lee-scott-red-ranger-season-1/) (although I did work on _[Power Rangers](http://www.imdb.com/title/tt3717490)_) nor [Jason Scott Lee](http://www.imdb.com/name/nm0001462/) (although we do share one screen credit for _[Seventh Son](http://www.imdb.com/title/tt1121096/)_).  In fact, my name is so common, they made a [movie](http://www.imdb.com/title/tt0469144/) about it.
+My name is Jason Scott – not to be confused with [Jason Lee Scott](http://www.powerrangers.com/character/mighty-morphin-power-rangers-jason-lee-scott-red-ranger-season-1/) (although I did work on _[Power Rangers](http://www.imdb.com/title/tt3717490)_) nor [Jason Scott Lee](http://www.imdb.com/name/nm0001462/) (although we do share one screen credit for _[Seventh Son](http://www.imdb.com/title/tt1121096/)_).  There's even a [street with the same name](https://www.openstreetmap.org/search?query=Jason+Scott+Drive%2C+Jacksonville%2C+FL&zoom=19&minlon=-81.5795883536339&minlat=30.282776517147465&maxlon=-81.57366067171098&maxlat=30.285671741954587#map=19/30.284277/-81.576989).  In fact, my name is so common, they made a [movie](http://www.imdb.com/title/tt0469144/) about it.
 
 I ❤️ _[Star Wars](https://www.starwars.com/)_, VFX and :movie_camera:, and I've lived in <img src="https://flagsapi.com/US/flat/16.png">(🇺🇸) <img src="https://flagsapi.com/DE/flat/16.png">(🇩🇪) <img src="https://flagsapi.com/CA/flat/16.png">(🇨🇦) <img src="https://flagsapi.com/AU/flat/16.png">(🇦🇺).
 
@@ -58,6 +58,13 @@ I attended the [University of Southern California](https://www.usc.edu/) :v:.
 
 # Links (that aren't above)
 * [Personal](https://www.thescottclan.org/jason/)
+* [LinkedIn](https://www.linkedin.com/in/jasoncscott/)
 * [Linux Foundation LFX Profile](https://openprofile.dev/profile/jasonscott)
+* [Bitbucket](https://bitbucket.org/jasoncscott/)
+* [Bitbucket Pages](https://jasoncscott.bitbucket.io/)
+* [GitHub](https://github.com/jasoncscott/)
 * [GitHub Pages](https://jasoncscott.github.io/)
+* [GitLab](https://gitlab.com/jasoncscott/)
+* [GitLab Pages](https://jasoncscott.gitlab.io/)
 
+<sub><sup>(Repository icon made by [Eucalyp](https://www.flaticon.com/authors/eucalyp) from [www.flaticon.com](https://www.flaticon.com/))</sup></sub>
